@@ -1,0 +1,19 @@
+#navbar{
+    width:100%;
+}
+
+
+#nav-wrap{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1%;
+}
+
+
+#main >a, #puppy >a, #search >a{
+    font-size: 20px;
+    text-decoration: none;
+    
+}
